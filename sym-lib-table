@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2025-11-08_12-03-25")(type "KiCad")(uri "${KIPRJMOD}/LM_NP_1005L/KiCADv6/2025-11-08_12-03-25.kicad_sym")(options "")(descr ""))
+  (lib (name "REC10K-2405DAW_H2")(type "KiCad")(uri "${KIPRJMOD}/REC10K-2405DAW_H2/REC10K-2405DAW_H2.kicad_sym")(options "")(descr ""))
+  (lib (name "REC10K-2405SAW_H2")(type "KiCad")(uri "${KIPRJMOD}/REC10K-2405SAW_H2/REC10K-2405SAW_H2.kicad_sym")(options "")(descr ""))
+)
