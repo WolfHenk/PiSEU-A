@@ -585,8 +585,8 @@
         },
         {
           "group_by": false,
-          "label": "PartRev",
-          "name": "PARTREV",
+          "label": "Reichelt",
+          "name": "Reichelt",
           "show": true
         },
         {
@@ -727,7 +727,7 @@
       "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Value"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {

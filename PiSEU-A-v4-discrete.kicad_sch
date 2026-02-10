@@ -16762,15 +16762,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C21190"
-			(at 302.26 58.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "JLC"
 			(at 302.26 58.42 90)
 			(effects
@@ -16835,6 +16826,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 302.26 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 1,00K"
 			(at 302.26 58.42 0)
 			(effects
 				(font
@@ -17062,15 +17062,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C22978"
-			(at 66.04 240.03 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 66.04 240.03 90)
 			(effects
@@ -17126,6 +17117,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 66.04 240.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 3,30K"
 			(at 66.04 240.03 90)
 			(effects
 				(font
@@ -17215,15 +17215,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C6742"
-			(at 246.38 160.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 246.38 160.02 0)
 			(effects
@@ -17279,6 +17270,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 246.38 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "SMD 4053"
 			(at 246.38 160.02 0)
 			(effects
 				(font
@@ -17805,15 +17805,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C22978"
-			(at 69.85 156.21 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 69.85 156.21 90)
 			(effects
@@ -17869,6 +17860,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 69.85 156.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 3,30K"
 			(at 69.85 156.21 90)
 			(effects
 				(font
@@ -17954,15 +17954,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C21190"
-			(at 200.66 185.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 200.66 185.42 90)
 			(effects
@@ -18018,6 +18009,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 200.66 185.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 1,00K"
 			(at 200.66 185.42 90)
 			(effects
 				(font
@@ -18168,15 +18168,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C1697097"
-			(at 171.45 137.16 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 171.45 137.16 90)
 			(effects
@@ -18223,6 +18214,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 171.45 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 3,16K"
 			(at 171.45 137.16 90)
 			(effects
 				(font
@@ -18419,15 +18419,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C21190"
-			(at 288.29 175.26 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "JLC"
 			(at 288.29 175.26 90)
 			(effects
@@ -18492,6 +18483,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 288.29 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 1,00K"
 			(at 288.29 175.26 0)
 			(effects
 				(font
@@ -18577,15 +18577,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C25804"
-			(at 134.62 46.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 134.62 46.99 90)
 			(effects
@@ -18641,6 +18632,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 134.62 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 10,0K"
 			(at 134.62 46.99 90)
 			(effects
 				(font
@@ -18850,15 +18850,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C41431766 "
-			(at 144.78 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Field5" ""
 			(at 144.78 54.61 0)
 			(effects
@@ -18896,6 +18887,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 144.78 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "TLC 393 DIP"
 			(at 144.78 54.61 0)
 			(effects
 				(font
@@ -18998,15 +18998,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C22978"
-			(at 69.85 148.59 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 69.85 148.59 90)
 			(effects
@@ -19062,6 +19053,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 69.85 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 3,30K"
 			(at 69.85 148.59 90)
 			(effects
 				(font
@@ -19268,15 +19268,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C2878631"
-			(at 163.83 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 163.83 185.42 0)
 			(effects
@@ -19323,6 +19314,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 163.83 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "--"
 			(at 163.83 185.42 0)
 			(effects
 				(font
@@ -19509,15 +19509,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C7115176"
-			(at 161.29 137.16 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 161.29 137.16 90)
 			(effects
@@ -19564,6 +19555,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 161.29 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 22,0"
 			(at 161.29 137.16 90)
 			(effects
 				(font
@@ -19651,15 +19651,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C21190"
-			(at 49.53 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 49.53 161.29 0)
 			(effects
@@ -19723,6 +19714,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "METALL 1,00K"
+			(at 49.53 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a5a4db9-5d8c-4951-b990-a662871032b6")
 		)
@@ -19767,7 +19767,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 62.23 143.51 0)
 			(effects
 				(font
@@ -19795,15 +19795,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 62.23 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1590"
 			(at 62.23 143.51 0)
 			(effects
 				(font
@@ -19867,6 +19858,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 62.23 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 100N"
 			(at 62.23 143.51 0)
 			(effects
 				(font
@@ -19952,15 +19952,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C25804"
-			(at 190.5 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 190.5 73.66 90)
 			(effects
@@ -20016,6 +20007,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 190.5 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 10,0K"
 			(at 190.5 73.66 90)
 			(effects
 				(font
@@ -20157,15 +20157,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C22935"
-			(at 256.54 52.07 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "JLC"
 			(at 256.54 52.07 90)
 			(effects
@@ -20230,6 +20221,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 256.54 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 1,00M"
 			(at 256.54 52.07 0)
 			(effects
 				(font
@@ -20551,15 +20551,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C1864297"
-			(at 175.26 194.31 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 175.26 194.31 90)
 			(effects
@@ -20606,6 +20597,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 175.26 194.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "--"
 			(at 175.26 194.31 90)
 			(effects
 				(font
@@ -20818,15 +20818,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C2878631"
-			(at 106.68 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 106.68 62.23 0)
 			(effects
@@ -20873,6 +20864,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 106.68 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "--"
 			(at 106.68 62.23 0)
 			(effects
 				(font
@@ -20996,15 +20996,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C21190"
-			(at 62.23 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 62.23 161.29 0)
 			(effects
@@ -21068,6 +21059,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "METALL 1,00K"
+			(at 62.23 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fbed45c9-93f2-4d59-8b09-116c9444835c")
 		)
@@ -21112,7 +21112,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 99.06 224.79 0)
 			(effects
 				(font
@@ -21140,15 +21140,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 99.06 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C3338"
 			(at 99.06 224.79 0)
 			(effects
 				(font
@@ -21220,6 +21211,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "RAD 105 100/35"
+			(at 99.06 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ea145b42-9d8a-4446-b0d1-625813905ec0")
 		)
@@ -21263,7 +21263,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 74.93 27.94 0)
 			(effects
 				(font
@@ -21291,15 +21291,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 74.93 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1590"
 			(at 74.93 27.94 0)
 			(effects
 				(font
@@ -21363,6 +21354,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 74.93 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 100N"
 			(at 74.93 27.94 0)
 			(effects
 				(font
@@ -21450,15 +21450,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C2878631"
-			(at 86.36 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 86.36 33.02 0)
 			(effects
@@ -21505,6 +21496,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 86.36 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "--"
 			(at 86.36 33.02 0)
 			(effects
 				(font
@@ -21619,15 +21619,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C181896"
-			(at 313.69 59.69 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "JLC"
 			(at 313.69 59.69 90)
 			(effects
@@ -21683,6 +21674,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 313.69 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 1,60K"
 			(at 313.69 59.69 0)
 			(effects
 				(font
@@ -21769,15 +21769,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C185041"
-			(at 48.26 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Field5" ""
 			(at 48.26 34.29 0)
 			(effects
@@ -21815,6 +21806,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 48.26 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "--"
 			(at 48.26 34.29 0)
 			(effects
 				(font
@@ -21910,16 +21910,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "PRELIMINARY"
-			(at 67.31 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "Recom Power"
 			(at 67.31 224.79 0)
 			(effects
@@ -22004,6 +21994,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "PRELIMINARY"
+			(at 67.31 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "74009066-964b-4e6b-9d07-d2858415bc46")
 		)
@@ -22059,7 +22058,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 74.93 38.1 0)
 			(effects
 				(font
@@ -22087,15 +22086,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 74.93 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1590"
 			(at 74.93 38.1 0)
 			(effects
 				(font
@@ -22159,6 +22149,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 74.93 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 100N"
 			(at 74.93 38.1 0)
 			(effects
 				(font
@@ -22246,15 +22245,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C21190"
-			(at 43.18 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 43.18 161.29 0)
 			(effects
@@ -22310,6 +22300,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 43.18 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 1,00K"
 			(at 43.18 161.29 0)
 			(effects
 				(font
@@ -22480,7 +22479,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 55.88 143.51 0)
 			(effects
 				(font
@@ -22508,15 +22507,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 55.88 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1590"
 			(at 55.88 143.51 0)
 			(effects
 				(font
@@ -22580,6 +22570,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 55.88 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 100N"
 			(at 55.88 143.51 0)
 			(effects
 				(font
@@ -22829,7 +22828,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 90.17 224.79 0)
 			(effects
 				(font
@@ -22857,15 +22856,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 90.17 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1590"
 			(at 90.17 224.79 0)
 			(effects
 				(font
@@ -22929,6 +22919,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 90.17 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 100N"
 			(at 90.17 224.79 0)
 			(effects
 				(font
@@ -23016,15 +23015,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C7420333"
-			(at 274.32 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Field5" ""
 			(at 274.32 78.74 0)
 			(effects
@@ -23062,6 +23052,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 274.32 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" " BAT 54S SMD"
 			(at 274.32 78.74 0)
 			(effects
 				(font
@@ -23149,15 +23148,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C22978"
-			(at 69.85 153.67 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 69.85 153.67 90)
 			(effects
@@ -23213,6 +23203,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 69.85 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 3,30K"
 			(at 69.85 153.67 90)
 			(effects
 				(font
@@ -23330,6 +23329,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 340.36 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "MCP23017-E/SO"
 			(at 340.36 220.98 0)
 			(effects
 				(font
@@ -23492,15 +23500,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C1697049"
-			(at 167.64 194.31 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 167.64 194.31 90)
 			(effects
@@ -23547,6 +23546,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 167.64 194.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 2,26K"
 			(at 167.64 194.31 90)
 			(effects
 				(font
@@ -23633,15 +23641,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C25804"
-			(at 316.23 223.52 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 316.23 223.52 90)
 			(effects
@@ -23705,6 +23704,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "METALL 10,0K"
+			(at 316.23 223.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c25ca37c-5d13-4be1-85f3-b4b1fbc36255")
 		)
@@ -23747,7 +23755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 337.82 132.08 0)
 			(effects
 				(font
@@ -23775,15 +23783,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 337.82 132.08 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1590"
 			(at 337.82 132.08 90)
 			(effects
 				(font
@@ -23847,6 +23846,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 337.82 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 100N"
 			(at 337.82 132.08 90)
 			(effects
 				(font
@@ -23933,15 +23941,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C1864297"
-			(at 143.51 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 143.51 200.66 0)
 			(effects
@@ -23988,6 +23987,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 143.51 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "--"
 			(at 143.51 200.66 0)
 			(effects
 				(font
@@ -24037,7 +24045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 227.33 69.85 0)
 			(effects
 				(font
@@ -24065,15 +24073,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 227.33 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C57112"
 			(at 227.33 69.85 0)
 			(effects
 				(font
@@ -24128,6 +24127,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 227.33 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 10N"
 			(at 227.33 69.85 90)
 			(effects
 				(font
@@ -24214,15 +24222,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C41431766 "
-			(at 247.65 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Field5" ""
 			(at 247.65 63.5 0)
 			(effects
@@ -24260,6 +24259,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 247.65 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "TLC 393 DIP"
 			(at 247.65 63.5 0)
 			(effects
 				(font
@@ -24474,15 +24482,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C22967"
-			(at 170.18 46.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "JLC"
 			(at 170.18 46.99 90)
 			(effects
@@ -24555,6 +24554,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "METALL 27,0K"
+			(at 170.18 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "42fb158f-0e18-46e4-b4d4-1d50e9e900e9")
 		)
@@ -24598,7 +24606,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 313.69 52.07 0)
 			(effects
 				(font
@@ -24626,15 +24634,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 313.69 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1590"
 			(at 313.69 52.07 0)
 			(effects
 				(font
@@ -24698,6 +24697,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 313.69 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 100N"
 			(at 313.69 52.07 0)
 			(effects
 				(font
@@ -24910,15 +24918,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C25804"
-			(at 40.64 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 40.64 181.61 0)
 			(effects
@@ -24974,6 +24973,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 40.64 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 10,0K"
 			(at 40.64 181.61 0)
 			(effects
 				(font
@@ -25059,15 +25067,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C185041"
-			(at 106.68 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Field5" ""
 			(at 106.68 44.45 0)
 			(effects
@@ -25105,6 +25104,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 106.68 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "--"
 			(at 106.68 44.45 0)
 			(effects
 				(font
@@ -25208,15 +25216,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C1864297"
-			(at 179.07 137.16 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 179.07 137.16 90)
 			(effects
@@ -25263,6 +25262,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 179.07 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "--"
 			(at 179.07 137.16 90)
 			(effects
 				(font
@@ -25747,7 +25755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Rect_L4.6mm_W3.8mm_P2.50mm_MKS02_FKP02"
 			(at 189.23 185.42 0)
 			(effects
 				(font
@@ -25775,15 +25783,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 189.23 185.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C15849"
 			(at 189.23 185.42 90)
 			(effects
 				(font
@@ -25847,6 +25846,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 189.23 185.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "C3X7R 1U 50"
 			(at 189.23 185.42 90)
 			(effects
 				(font
@@ -25942,15 +25950,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C81598"
-			(at 373.38 134.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "JLC"
 			(at 373.38 134.62 90)
 			(effects
@@ -26006,6 +26005,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 373.38 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "1N 4148"
 			(at 373.38 134.62 90)
 			(effects
 				(font
@@ -26287,15 +26295,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C1697097"
-			(at 154.94 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 154.94 143.51 0)
 			(effects
@@ -26342,6 +26341,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 154.94 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 3,16K"
 			(at 154.94 143.51 0)
 			(effects
 				(font
@@ -26669,15 +26677,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C25600"
-			(at 280.67 72.39 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "JLC"
 			(at 280.67 72.39 90)
 			(effects
@@ -26742,6 +26741,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 280.67 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 47,0K"
 			(at 280.67 72.39 90)
 			(effects
 				(font
@@ -26829,15 +26837,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C181896"
-			(at 331.47 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 331.47 137.16 0)
 			(effects
@@ -26892,6 +26891,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "METALL 1,60K"
+			(at 331.47 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a154e498-6b22-4659-8e50-f89484c870c2")
 		)
@@ -26933,7 +26941,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 307.34 54.61 0)
 			(effects
 				(font
@@ -26987,15 +26995,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C1590"
-			(at 307.34 54.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Field5" ""
 			(at 307.34 54.61 90)
 			(effects
@@ -27033,6 +27032,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 307.34 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 100N"
 			(at 307.34 54.61 90)
 			(effects
 				(font
@@ -27118,15 +27126,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C25804"
-			(at 163.83 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 163.83 73.66 90)
 			(effects
@@ -27173,6 +27172,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 163.83 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 4,70K"
 			(at 163.83 73.66 90)
 			(effects
 				(font
@@ -27261,15 +27269,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C25804"
-			(at 40.64 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 40.64 195.58 0)
 			(effects
@@ -27325,6 +27324,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 40.64 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 10,0K"
 			(at 40.64 195.58 0)
 			(effects
 				(font
@@ -27444,7 +27452,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 43.18 143.51 0)
 			(effects
 				(font
@@ -27472,15 +27480,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 43.18 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1590"
 			(at 43.18 143.51 0)
 			(effects
 				(font
@@ -27544,6 +27543,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 43.18 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 100N"
 			(at 43.18 143.51 0)
 			(effects
 				(font
@@ -27657,6 +27665,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 369.57 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "ULN 2803A"
 			(at 369.57 62.23 0)
 			(effects
 				(font
@@ -27790,15 +27807,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C25804"
-			(at 134.62 68.58 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 134.62 68.58 90)
 			(effects
@@ -27845,6 +27853,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 134.62 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 330K"
 			(at 134.62 68.58 90)
 			(effects
 				(font
@@ -27930,15 +27947,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C8218"
-			(at 279.4 152.4 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 279.4 152.4 90)
 			(effects
@@ -27994,6 +28002,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 279.4 152.4 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 200"
 			(at 279.4 152.4 90)
 			(effects
 				(font
@@ -28089,15 +28106,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C81598"
-			(at 377.19 134.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "JLC"
 			(at 377.19 134.62 90)
 			(effects
@@ -28153,6 +28161,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 377.19 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "1N 4148"
 			(at 377.19 134.62 90)
 			(effects
 				(font
@@ -28240,15 +28257,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C7115176"
-			(at 151.13 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 151.13 209.55 0)
 			(effects
@@ -28295,6 +28303,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 151.13 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 22,0"
 			(at 151.13 209.55 0)
 			(effects
 				(font
@@ -28380,15 +28397,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C22978"
-			(at 326.39 132.08 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 326.39 132.08 90)
 			(effects
@@ -28452,6 +28460,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "METALL 3,30K"
+			(at 326.39 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e5f2a96c-3d64-447e-b348-8d22c65b5562")
 		)
@@ -28495,7 +28512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 59.69 63.5 0)
 			(effects
 				(font
@@ -28523,15 +28540,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 59.69 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1590"
 			(at 59.69 63.5 0)
 			(effects
 				(font
@@ -28595,6 +28603,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 59.69 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 100N"
 			(at 59.69 63.5 0)
 			(effects
 				(font
@@ -28798,15 +28815,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C25803"
-			(at 328.93 72.39 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "JLC"
 			(at 328.93 72.39 90)
 			(effects
@@ -28871,6 +28879,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 328.93 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 100K"
 			(at 328.93 72.39 90)
 			(effects
 				(font
@@ -29273,15 +29290,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C21190"
-			(at 55.88 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 55.88 161.29 0)
 			(effects
@@ -29337,6 +29345,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 55.88 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 1,00K"
 			(at 55.88 161.29 0)
 			(effects
 				(font
@@ -29533,15 +29550,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C25804"
-			(at 170.18 58.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "JLC"
 			(at 170.18 58.42 90)
 			(effects
@@ -29614,6 +29622,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "METALL 10,0K"
+			(at 170.18 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "52cc25ac-62a4-41bf-95c9-b4e16b4172bd")
 		)
@@ -29658,7 +29675,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 53.34 63.5 0)
 			(effects
 				(font
@@ -29686,15 +29703,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 53.34 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C3338"
 			(at 53.34 63.5 0)
 			(effects
 				(font
@@ -29758,6 +29766,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 53.34 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "RAD 105 100/35"
 			(at 53.34 63.5 0)
 			(effects
 				(font
@@ -29875,7 +29892,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 49.53 143.51 0)
 			(effects
 				(font
@@ -29903,15 +29920,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 49.53 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1590"
 			(at 49.53 143.51 0)
 			(effects
 				(font
@@ -29975,6 +29983,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 49.53 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 100N"
 			(at 49.53 143.51 0)
 			(effects
 				(font
@@ -30062,15 +30079,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C26159250"
-			(at 33.02 57.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Field5" ""
 			(at 33.02 57.15 90)
 			(effects
@@ -30108,6 +30116,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 33.02 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "--"
 			(at 33.02 57.15 90)
 			(effects
 				(font
@@ -30211,15 +30228,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C2878631"
-			(at 106.68 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 106.68 26.67 0)
 			(effects
@@ -30266,6 +30274,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 106.68 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "--"
 			(at 106.68 26.67 0)
 			(effects
 				(font
@@ -30651,15 +30668,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C7115176"
-			(at 154.94 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 154.94 152.4 0)
 			(effects
@@ -30706,6 +30714,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 154.94 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 22,0"
 			(at 154.94 152.4 0)
 			(effects
 				(font
@@ -30791,15 +30808,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C2878631"
-			(at 167.64 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 167.64 128.27 0)
 			(effects
@@ -30846,6 +30854,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 167.64 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "--"
 			(at 167.64 128.27 0)
 			(effects
 				(font
@@ -30931,7 +30948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 349.25 143.51 0)
 			(effects
 				(font
@@ -30951,15 +30968,6 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 349.25 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1595"
-			(at 349.25 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31040,6 +31048,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 349.25 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 1,5N"
 			(at 349.25 143.51 90)
 			(effects
 				(font
@@ -31334,7 +31351,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 33.02 36.83 0)
 			(effects
 				(font
@@ -31362,15 +31379,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 33.02 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1590"
 			(at 33.02 36.83 0)
 			(effects
 				(font
@@ -31434,6 +31442,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 33.02 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 100N"
 			(at 33.02 36.83 0)
 			(effects
 				(font
@@ -31519,15 +31536,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C25804"
-			(at 226.06 55.88 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 226.06 55.88 90)
 			(effects
@@ -31583,6 +31591,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 226.06 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 10,0K"
 			(at 226.06 55.88 90)
 			(effects
 				(font
@@ -31669,15 +31686,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C185041"
-			(at 276.86 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Field5" ""
 			(at 276.86 60.96 0)
 			(effects
@@ -31715,6 +31723,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 276.86 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "--"
 			(at 276.86 60.96 0)
 			(effects
 				(font
@@ -31785,7 +31802,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm"
 			(at 158.75 78.74 0)
 			(effects
 				(font
@@ -31813,15 +31830,6 @@
 			)
 		)
 		(property "Sim.Pin" ""
-			(at 158.75 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C21120"
 			(at 158.75 78.74 0)
 			(effects
 				(font
@@ -31876,6 +31884,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 158.75 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "C3Z5U 220NB50"
 			(at 158.75 78.74 0)
 			(effects
 				(font
@@ -32198,15 +32215,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C7115176"
-			(at 157.48 194.31 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 157.48 194.31 90)
 			(effects
@@ -32253,6 +32261,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 157.48 194.31 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 22,0"
 			(at 157.48 194.31 90)
 			(effects
 				(font
@@ -32338,15 +32355,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C31850"
-			(at 283.21 170.18 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 283.21 170.18 90)
 			(effects
@@ -32410,6 +32418,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "METALL 22,0K"
+			(at 283.21 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "23227aa5-ba79-465f-a584-71d80eabe95f")
 		)
@@ -32453,7 +32470,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 68.58 33.02 0)
 			(effects
 				(font
@@ -32472,15 +32489,6 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
-			(at 68.58 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "ESL107M016AC3AA"
 			(at 68.58 33.02 0)
 			(effects
 				(font
@@ -32544,6 +32552,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 68.58 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "RAD 105 100/35"
 			(at 68.58 33.02 0)
 			(effects
 				(font
@@ -32629,15 +32646,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C21190"
-			(at 204.47 128.27 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 204.47 128.27 90)
 			(effects
@@ -32693,6 +32701,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 204.47 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 1,00K"
 			(at 204.47 128.27 90)
 			(effects
 				(font
@@ -32910,15 +32927,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C41431766 "
-			(at 33.02 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Field5" ""
 			(at 33.02 71.12 0)
 			(effects
@@ -32956,6 +32964,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 33.02 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "TLC 393 DIP"
 			(at 33.02 71.12 0)
 			(effects
 				(font
@@ -33050,15 +33067,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C25803"
-			(at 328.93 57.15 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "JLC"
 			(at 328.93 57.15 90)
 			(effects
@@ -33123,6 +33131,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 328.93 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 100K"
 			(at 328.93 57.15 90)
 			(effects
 				(font
@@ -33207,15 +33224,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C26159250"
-			(at 208.28 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Field5" ""
 			(at 208.28 68.58 0)
 			(effects
@@ -33253,6 +33261,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 208.28 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "--"
 			(at 208.28 68.58 0)
 			(effects
 				(font
@@ -33441,7 +33458,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm"
 			(at 323.85 72.39 0)
 			(effects
 				(font
@@ -33469,15 +33486,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 323.85 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1590"
 			(at 323.85 72.39 0)
 			(effects
 				(font
@@ -33541,6 +33549,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 323.85 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 100N"
 			(at 323.85 72.39 0)
 			(effects
 				(font
@@ -33627,15 +33644,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C1697049"
-			(at 151.13 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 151.13 200.66 0)
 			(effects
@@ -33682,6 +33690,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 151.13 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 2,26K"
 			(at 151.13 200.66 0)
 			(effects
 				(font
@@ -33768,15 +33785,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C1864297"
-			(at 147.32 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 147.32 143.51 0)
 			(effects
@@ -33831,6 +33839,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "--"
+			(at 147.32 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a61e7804-d23f-4217-a822-8523e48b18d8")
 		)
@@ -33875,7 +33892,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 26.67 36.83 0)
 			(effects
 				(font
@@ -33903,15 +33920,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 26.67 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C3338"
 			(at 26.67 36.83 0)
 			(effects
 				(font
@@ -33975,6 +33983,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 26.67 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "RAD 105 100/35"
 			(at 26.67 36.83 0)
 			(effects
 				(font
@@ -34183,15 +34200,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C31850"
-			(at 232.41 55.88 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 232.41 55.88 90)
 			(effects
@@ -34255,6 +34263,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "METALL 22,0K"
+			(at 232.41 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "59c866d1-b916-4dba-bbaa-4411cac82521")
 		)
@@ -34299,7 +34316,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.0mm_W4.5mm_P5.00mm"
 			(at 184.15 78.74 0)
 			(effects
 				(font
@@ -34327,15 +34344,6 @@
 			)
 		)
 		(property "Sim.Pin" ""
-			(at 184.15 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C1597"
 			(at 184.15 78.74 0)
 			(effects
 				(font
@@ -34390,6 +34398,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 184.15 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "C3X7R 150NB50"
 			(at 184.15 78.74 0)
 			(effects
 				(font
@@ -34466,15 +34483,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C21190"
-			(at 294.64 63.5 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "MANUFACTURER" "JLC"
 			(at 294.64 63.5 90)
 			(effects
@@ -34539,6 +34547,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 294.64 63.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 1,00K"
 			(at 294.64 63.5 90)
 			(effects
 				(font
@@ -34623,15 +34640,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C22978"
-			(at 69.85 151.13 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 69.85 151.13 90)
 			(effects
@@ -34687,6 +34695,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 69.85 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "METALL 3,30K"
 			(at 69.85 151.13 90)
 			(effects
 				(font
@@ -34771,15 +34788,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTREV" "C23138"
-			(at 337.82 143.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Sim.Pin" ""
 			(at 337.82 143.51 90)
 			(effects
@@ -34843,6 +34851,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "METALL 330"
+			(at 337.82 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fdc1d790-dca1-4777-964a-298ec944cd88")
 		)
@@ -34884,7 +34901,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P10.00mm"
+		(property "Footprint" "Capacitor_THT:C_Rect_L4.6mm_W3.8mm_P2.50mm_MKS02_FKP02"
 			(at 193.04 128.27 0)
 			(effects
 				(font
@@ -34912,15 +34929,6 @@
 			)
 		)
 		(property "MANUFACTURER" "JLC"
-			(at 193.04 128.27 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C15849"
 			(at 193.04 128.27 90)
 			(effects
 				(font
@@ -34992,6 +35000,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reichelt" "C3X7R 1U 50"
+			(at 193.04 128.27 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "00b48541-67ee-48ec-8b4f-2a7fd3632985")
 		)
@@ -35036,7 +35053,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 321.31 137.16 0)
 			(effects
 				(font
@@ -35055,15 +35072,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 321.31 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "C57112"
 			(at 321.31 137.16 0)
 			(effects
 				(font
@@ -35127,6 +35135,15 @@
 			)
 		)
 		(property "Field9" ""
+			(at 321.31 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reichelt" "KERKO 10N"
 			(at 321.31 137.16 0)
 			(effects
 				(font
